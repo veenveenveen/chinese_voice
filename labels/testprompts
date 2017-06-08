@@ -1,0 +1,15 @@
+1. SENT-START 关闭 风扇 八 秒 SENT-END 
+2. SENT-START 打开 阀门 八 小时 SENT-END 
+3. SENT-START 关闭 风扇 一 小时 SENT-END 
+4. SENT-START 开启 灯 SENT-END 
+5. SENT-START 关 阀门 三 小时 SENT-END 
+6. SENT-START 关闭 风扇 八 分钟 SENT-END 
+7. SENT-START 关 阀门 八 分钟 SENT-END 
+8. SENT-START 开 灯 七 小时 SENT-END 
+9. SENT-START 开 灯 六 秒 SENT-END 
+10. SENT-START 开启 风扇 九 秒 SENT-END 
+11. SENT-START 关 风扇 二 秒 SENT-END 
+12. SENT-START 关 阀门 SENT-END 
+13. SENT-START 打开 风扇 一 小时 SENT-END 
+14. SENT-START 开 灯 SENT-END 
+15. SENT-START 开启 阀门 七 分钟 SENT-END 
