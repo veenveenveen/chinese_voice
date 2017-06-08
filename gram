@@ -1,0 +1,6 @@
+$operation = 开 | 打开 | 开启 | 关 | 关闭 | 关掉;
+$device = 灯 | 风扇 | 阀门;
+$timeDuration = 一 | 二 | 三 | 四 | 五 | 六 | 七 | 八 | 九;
+$timeUnit = 小时 | 分钟 | 秒;
+$timeTask = $timeDuration $timeUnit;
+(SENT-START ([$operation] [$device] [$timeTask]) SENT-END)
