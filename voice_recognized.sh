@@ -48,8 +48,8 @@ fi
 #gedit "$myResult"
 ./getString.sh
 
-gcc main.c
-./a.out
+gcc main.c -o main.out
+./main.out
 
 echo "done！"
 
