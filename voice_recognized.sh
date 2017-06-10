@@ -48,6 +48,9 @@ fi
 #gedit "$myResult"
 ./getString.sh
 
+gcc main.c
+./a.out
+
 echo "done！"
 
 exit 0

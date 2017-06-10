@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#filepath="/home/hqm/桌面/Chinese_voice/results/voice_result.mlf"
 filepath="./results/voice_result.mlf"
 writefilepath="./results/result"
 
